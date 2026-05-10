@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+.env.*
+.env.local
+*.js.map
+.DS_Store
+frontend/dist/
+backend/dist/
